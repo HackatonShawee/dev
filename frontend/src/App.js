@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
 
+import Times from './pages/Times'
+
 function App() {
   return (
-    <h1>Shawee</h1>
-
+    <Times />  
   );
 }
 
